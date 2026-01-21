@@ -1,31 +1,40 @@
 # Hey, I'm Joshua
 
-**Full Stack Engineer & SaaS Architect** at [Axion Deep Labs](https://axiondeep.com)
+**Full Stack Software Consultant** with 10+ years building modern web applications and AI-powered solutions.
 
-Building AI-powered platforms, automation systems, and scalable cloud applications.
-
----
-
-### What I Work With
-
-**Languages:** Python, TypeScript, JavaScript, C#
-
-**Backend:** FastAPI, Node.js, PostgreSQL, Redis, SQLAlchemy
-
-**Frontend:** React, Next.js, TailwindCSS
-
-**Cloud & DevOps:** AWS, Vercel, Docker, GitHub Actions
+Founder of [Axion Deep Labs](https://axiondeep.com) — based in Las Cruces, NM.
 
 ---
 
-### Current Projects
+### Tech Stack
 
-| Project | Description |
-|---------|-------------|
-| [Made4Founders](https://github.com/joshuarg007/made4founders) | SaaS platform for startup founders — business management, contacts, documents, meetings |
-| [SLMS](https://github.com/joshuarg007/slms) | Smart Lead Management System with AI-powered lead scoring |
-| [QUANTA](https://github.com/joshuarg007/quanta) | Quantum computing education platform |
-| [Axion Deep](https://github.com/joshuarg007/axiondeep) | Company website & sales portal |
+```
+Languages      Python, TypeScript, JavaScript, SQL
+Frontend       React, Vite, Tailwind CSS, Three.js, React Three Fiber
+Backend        FastAPI, Node.js, SQLAlchemy, REST APIs
+Databases      PostgreSQL, SQLite, Redis
+DevOps         Docker, GitHub Actions, Nginx, AWS, CI/CD
+AI/ML          LangChain, OpenAI API, RAG Systems, LLM Integration
+Security       AES-256 Encryption, JWT, OAuth
+```
+
+---
+
+### Featured Projects
+
+**[FounderOS](https://made4founders.com)** — Business command center for startup founders
+`FastAPI` `React` `TypeScript` `Docker` `Nginx`
+Service tracking, document management, encrypted credential vault, intelligent daily briefs
+
+**[QUANTA](https://github.com/joshuarg007/quanta)** — Quantum computing education platform
+`FastAPI` `React` `TypeScript`
+Interactive sandbox for quantum circuit simulation with progressive curriculum
+
+**[Site2CRM](https://github.com/joshuarg007/slms)** — Smart lead management system
+`Python` `FastAPI` `AI-powered lead scoring`
+
+**[Forma](https://github.com/joshuarg007/forma)** — Visual drag-and-drop page builder
+`FastAPI` `React` `TypeScript`
 
 ---
 
@@ -39,5 +48,6 @@ Building AI-powered platforms, automation systems, and scalable cloud applicatio
 
 ### Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/joshuarg007)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:joshua@axiondeep.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/joshua-gutierrez-b198117a)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://joshuarg007.github.io)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:joshuarg007@gmail.com)
