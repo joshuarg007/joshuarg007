@@ -46,6 +46,12 @@ Interactive sandbox for quantum circuit simulation with progressive curriculum
 
 ---
 
+### 🌐 Join Me on CoderLegion
+
+[![CoderLegion](https://coderlegion.com/cl_badge_logo1.png)](https://coderlegion.com/user/Joshua+R.+Gutierrez) Check out my articles and community posts on [CoderLegion!](https://coderlegion.com/user/Joshua+R.+Gutierrez)
+
+---
+
 ### Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/joshua-gutierrez-b198117a)
