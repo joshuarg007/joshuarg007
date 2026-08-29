@@ -73,6 +73,12 @@ Empirical web research, sole author, with an open dataset and methodology publis
 
 `Playwright` `Puppeteer` `pandas` `SciPy`
 
+**Entity Evidence Framework** (in preparation) is the program those studies are feeding into. It measures how completely, legibly, and consistently a small professional services firm represents itself as a machine-resolvable entity on the surfaces it actually controls: its own site, the pages it links, and the profiles it declares in schema.org `sameAs`.
+
+Two things make it a measurement problem rather than an audit. Every page is captured twice, once as a rendered DOM and once as the raw HTML a non-rendering crawler receives, because the gap between those two is where entity evidence disappears. And the extraction itself is validated against a blind two annotator gold set with reported precision and recall, so the instrument is characterized before any finding rests on it.
+
+Sub-indices are reported independently rather than rolled into a single score, since a composite would need discriminant validity it has not yet earned. The first study is cross-sectional and descriptive by design. Pre-registration is being prepared.
+
 ## Open source
 
 - **[QUANTA](https://github.com/joshuarg007/quanta)** Quantum computing education platform. Drag and drop circuit builder, Bloch sphere visualization, and a guided curriculum. `FastAPI` `Qiskit` `React`
